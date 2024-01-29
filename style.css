@@ -34,3 +34,23 @@ span {
     background-color: yellow
 }
 
+.table-dimensions {
+    width: 25%;
+}
+
+.table-title-color{
+    color: white;
+    background-color: #4EA0FF;
+    text-align: left;
+    
+
+}
+.table-color {
+    background-color: #B1E5F2;
+
+}
+
+/* .text-margin {
+    margin-left: 0;
+} */
+
