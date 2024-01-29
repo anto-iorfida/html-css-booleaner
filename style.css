@@ -1,4 +1,8 @@
+main {
+    font-family: 'Roboto', sans-serif;
+}
 header {
+
     background-image:  url(img/pattern.png);
     background-size:35%;
     height: 150px;
@@ -10,3 +14,23 @@ header {
     width: 240px ;
     padding-top: 30px;
 }
+
+h1 {
+    font-family: 'Noto Serif', serif;
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+#inf-article {
+
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: grey;
+    margin-top: 0;
+}
+
+span {
+    background-color: yellow
+}
+
