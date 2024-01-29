@@ -21,7 +21,7 @@ h1 {
     margin-bottom: 0;
 }
 
-#inf-article {
+.inf-article {
 
     
     font-size: 20px;
@@ -50,7 +50,28 @@ span {
 
 }
 
-/* .text-margin {
-    margin-left: 0;
-} */
+#adds1{
+    background-image:url(img/monitor.jpg) ;
+    width: 250px;
+    height: 250px;
+
+
+}
+
+#adds2{
+    background-image: url(img/graph.jpg);
+    width: 250px;
+    height: 250px;
+    
+    
+}
+
+.adds-text {
+    font-family: 'Noto Serif', serif;
+    color: white;
+    font-size:20px ;
+    margin-left: 20px;
+    
+}
+
 
