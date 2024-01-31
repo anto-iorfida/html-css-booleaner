@@ -1,5 +1,7 @@
 main {
     font-family: 'Roboto', sans-serif;
+    max-width: 800px;
+    margin: 20px auto;
 }
 header {
 
@@ -13,6 +15,7 @@ header {
     height: 150px;
     width: 240px ;
     padding-top: 30px;
+    /* se metti solo l'alezza la larghezza si adatta automaticamente */
 }
 
 h1 {
@@ -36,6 +39,8 @@ span {
 
 #table {
     border-spacing: 0;
+    /* oppure usare 
+    border-collapse: collapse */
 }
 
 .table-dimensions {
